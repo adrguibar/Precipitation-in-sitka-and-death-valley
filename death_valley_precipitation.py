@@ -27,7 +27,7 @@ fig, ax = plt.subplots()
 ax.plot(x_values, y_values, color='blue')
 
 #setting the configs
-ax.set_title('Precipitation in Sikta, Alaska', fontsize=24)
+ax.set_title('Precipitation in Death Valley, California', fontsize=24)
 ax.set_xlabel('Date', fontsize=14)
 ax.set_ylabel('Precipitation', fontsize=14)
 
